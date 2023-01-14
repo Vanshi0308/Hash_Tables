@@ -1,4 +1,4 @@
-# Hash_Tables
+# Hash Tables
 
 #### By Vanshika Sinha
 
